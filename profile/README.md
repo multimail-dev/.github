@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://socialify.git.ci/multimail-dev/mcp-server/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&theme=Dark" alt="MultiMail" width="720" />
+</p>
+
 # MultiMail
 
 Email infrastructure for AI agents. Every address publishes its operator, oversight mode, and reputation.
